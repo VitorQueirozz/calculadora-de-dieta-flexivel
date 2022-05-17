@@ -4,10 +4,12 @@
 
 - Contagem de macros e calorias diárias para dieta flexível.
 
-- Taxa metabólica basal
+- Taxa metabólica basal.
 
-- Percentual de gordura (BF)
+- Percentual de gordura (BF).
 
-- Índice de massa magra/gorda
+- Índice de massa magra/gorda.
 
+  
+  
   
